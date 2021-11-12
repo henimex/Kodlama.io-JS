@@ -50,3 +50,4 @@ function reverseIt(normalText) {
 
 let test = reverseIt("FERHAT");
 console.log(test);
+
